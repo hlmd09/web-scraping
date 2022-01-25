@@ -26,4 +26,3 @@ for num in range(0 , x):
     else:
         prix = price.text
         print('price: ' ,prix)
-#1SdqNmNkSLNkgv2
